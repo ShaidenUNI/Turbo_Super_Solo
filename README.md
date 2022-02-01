@@ -1,4 +1,8 @@
-# Trackmania Turbo Medal Center
+# *Old* Trackmania Turbo Medal Center
+
+This is the old repo of Turbo Medal Center, used for the sake of link compatibility. Follow the new one: https://github.com/dequubi/Turbo_Super_Solo
+
+---
 
 Built with Vue 3, Tailwind 2 and some other libraries.
 
